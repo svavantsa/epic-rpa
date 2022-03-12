@@ -1,0 +1,3 @@
+# epic-rpa
+This repository has been recreated afresh on 5/10/2020. Going foreard, this repo should be used for all intelligent automation bot developments such as rpa, ia etc...
+RPA to IPA is a continuum. RPA with more intelligence to think and learn becomes IPA.
